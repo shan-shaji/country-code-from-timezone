@@ -68,7 +68,6 @@ def dump_time_zone_details(country_to_timezones):
         country_codes = country_codes.split(',')
         for country_code in country_codes:
             country_code = country_code.strip()
-            print(country_timezones.get(country_code))
             if(country_timezones.get(country_code) is None):
                 country_timezones[country_code] = []
             country_timezones[country_code] += timezones;

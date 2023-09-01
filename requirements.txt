@@ -1,0 +1,9 @@
+certifi==2023.7.22
+cffi==1.15.1
+charset-normalizer==3.2.0
+idna==3.4
+pycparser==2.21
+PyYAML @ file:///private/tmp/pyyaml-20230717-6270-1iiwi1j/PyYAML-6.0.1
+requests==2.31.0
+six==1.16.0
+urllib3==2.0.4
